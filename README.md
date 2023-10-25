@@ -6,3 +6,5 @@
 **Project #2 @Predict Rent of an apartment:** Predict the Rent of an apartment using machine learning Regression algorithms.
 
 **Project #3 @Predict Sales of a Super-market:** Developed a Machine Learning model to predict sales of  a Super-Market.
+
+**Tech Stack: Data Visualization, EDA, Pandas, Numpy, Matplotlib, Seaborn, Statistics, Scikit, NLP-NLTK**
