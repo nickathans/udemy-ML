@@ -1,4 +1,4 @@
-# Machine Learning Real World Case Studies | Hands-on Python
+## Machine Learning Real World Case Studies | Hands-on Python
 ### by Shan Singh (Top Rated & Best-Selling Udemy Instructor , Data Scientist)
 
 **Project #1 @Predict Ratings of Application:** Developed a Machine Learning model to predict Ratings of Play-store applications.
